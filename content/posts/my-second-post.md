@@ -5,4 +5,4 @@ title = 'My Second Post'
 +++
 This is my second post. Here is a picture:
 
-![My Image](static/images/my-image.jpeg)
+![My Image](/images/my-image.jpeg)
